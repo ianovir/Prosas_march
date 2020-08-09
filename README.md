@@ -20,7 +20,8 @@ Some simple examples. Also, try the `demo.py` script.
 
 ### Example 1
 Let's consider the following Markov chain:
-![markov1](./pics/p1.jpg)
+
+![markov1](https://github.com/ianovir/Prosas_march/blob/master/pics/p1.JPG)
 
 The state s0 is considered the starting state, while the absorbing states are: **s2**, **s3** and **s4**.
 
@@ -42,7 +43,7 @@ which means that the probabilities for each absorbing state to be reached from *
 ### Example 2
 Let's consider the following Markov chain:
 
-![markov2](./pics/p2.jpg)
+![markov2](https://github.com/ianovir/Prosas_march/blob/master/pics/p2.JPG)
 
 The state s0 is the starting state, while the absorbing states are: **s2**, **s3**, **s4** and **s5**. Please, note that **s2** is an **unreachable** state.
 
